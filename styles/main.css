@@ -1,0 +1,36 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+img {
+    height: 300px;
+}
+footer
+{
+    text-align: center;
+    font-size: 90%;
+
+}
+.imgleft {
+    float: left;
+    
+}
+.imgright {
+    float: right;
+    
+}
+p {
+padding-left: .5em;
+padding-right: .5em;
+}
+.clearfix {
+    overflow: auto;
+}
+section {
+clear: both;
+}
+footer {
+clear: both;
+}
